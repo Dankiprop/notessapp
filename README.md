@@ -6,4 +6,4 @@ This is an app where users can enter text to each note and save it, delete an ex
 
 #Licence 
 
-MIT
+MIT 
